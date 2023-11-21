@@ -11,3 +11,11 @@ After graduating from a technical university my interest in engineering led me t
 I became interested in programming by writing small scripts to automate routine operations and creating extensions for engineering software in Python. And one day I participated in the development of a small web application and from that moment I understood that I want to become web developer.
 
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Web Developer.
+
+### Skills
+- Python, Django Framework
+- Git, GitHub, GitLab
+- Docker (basic skills for implementing CI/CD in GitLab)
+- HTML, CSS, JavaScript
+- VSCode, Sublime
+- ANSYS, ABAQUS, MSC Patran (CAE software for finite element analysis)
