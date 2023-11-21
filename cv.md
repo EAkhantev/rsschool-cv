@@ -39,3 +39,7 @@ function binary_search(search_list, guess_numb){
    return null
 }
 ```
+
+### Education
+- Samara State Technical University (2009-2014)
+   - Mechanical Engineering, Metallurgy and Transport Faculty
